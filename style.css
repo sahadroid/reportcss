@@ -1,0 +1,77 @@
+    
+ 
+    h1 {
+        font-weight: bold;
+        font-size: 20pt;
+        text-align: center;
+    }
+ 
+      b {
+        font-size: 15pt;
+		font-weight:bold;
+	  }
+ 
+     h4 {
+        font-weight: bold;
+        font-size: 15pt;
+        text-align: center;
+		padding:0px;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+ 
+     .titletable td {
+        padding: 0.6%;
+        border-bottom:1px solid silver;
+		font-size:14px;
+		font-family:Courier;
+    }
+ 
+      .titletable th {
+ 		background:silver;
+		color:black;			
+        padding: 1%;
+        border:1px solid silver;
+		font-size:14px;
+		font-family:Courier;
+    }
+ 
+    .table th {
+        padding: 4px 4px;
+        border-bottom:1px solid #000000;
+		border-top:1px solid #000000;
+		font-size:14px;
+    }
+ 
+    .table td {
+        padding: 3px 3px;
+        border:0px solid #000000;
+		font-size:18px;
+		
+    }
+ 
+    .table .bordertop {
+        border-top:1px solid #000000;
+		font-size:13px;
+    }
+ 
+ 
+     .table .borderbottom {
+        border-bottom:1px solid #000000;
+		font-size:13px;
+    }
+ 
+    .text-center {
+        text-align: center;
+    }
+	
+    .text-left {
+        text-align: left;
+    }
+
+    .text-right {
+        text-align: right;
+    }	
